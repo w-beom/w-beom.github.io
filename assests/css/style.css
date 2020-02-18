@@ -1,30 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
 
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
 
-ul{
-    display: flex;
-    justify-content: center;
-    list-style: none;
-    border: 3px solid black;
-    border-radius: 100px;
+ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  border: 3px solid black;
+  border-radius: 100px;
+  font-family: 'Bangers', cursive;
+
 }
-li{
-    margin: 10px;
-    padding-right: 25px;
-    border-right: 1px solid black;
+
+li {
+  margin: 10px;
+  padding-right: 25px;
+  border-right:px solid black;
 }
-li:last-child{
-    border-right: none;
+
+li:last-child {
+  border-right: none;
 }
-#main{
-    width: 100%;
-    height: 1000px;
-    background-color: cadetblue;
+
+#main {
+  width: 100%;
+  height: 100%;
 }
-.navbar{
-    width: 800px;
-    margin: 0 auto;
+
+.navbar {
+  width: 800px;
+  margin: 0 auto;
+  padding-top: 20px;
 }
+
+.box{
+  width: 100%;
+  height: 1080px;
+}
+.back{
+  background-image: url(../img/background.jpeg);
+  background-size: cover;
+}
+
