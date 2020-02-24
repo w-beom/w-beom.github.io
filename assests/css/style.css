@@ -43,5 +43,7 @@ li:last-child {
 .back{
   background-image: url(../img/background.jpeg);
   background-size: cover;
+  width: 1920px;
+  height: 1080px;
 }
 
