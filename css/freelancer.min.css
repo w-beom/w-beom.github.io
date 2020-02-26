@@ -10971,3 +10971,28 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f
 }
+.subject{
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.content{
+  color: black;
+}
+
+.skill-icon{
+  width: 140px;
+  height: 140px;
+  border-radius: 20px;
+  background-size: 140px 140px;
+  background-repeat: no-repeat;
+  box-shadow: 0 3px 6px rgba(0,0,0,.2), 0 3px 6px rgba(0,0,0,.2);
+  margin-right: 30px;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
