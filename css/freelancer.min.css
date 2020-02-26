@@ -6731,7 +6731,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #5e5a5b !important
+  background-color: #3d4965 !important
 }
 
 a.bg-primary:focus,
@@ -6742,7 +6742,7 @@ button.bg-primary:hover {
 }
 
 .bg-secondary {
-  background-color: #263755 !important
+  background-color: #564c4d !important
 }
 
 
@@ -6754,12 +6754,12 @@ button.bg-secondary:hover {
   background-color: #1a252f !important
 }
 
-.bg-a9976f{
-  background-color: #a9976f;
+.bg-cc9880{
+  background-color: #cc9880;
 }
 
 .bg-success {
-  background-color: #e0d0b6 !important
+  background-color: #9bbfd7 !important
 }
 
 a.bg-success:focus,
@@ -10985,6 +10985,7 @@ form .row:first-child .floating-label-form-group {
   width: 140px;
   height: 140px;
   border-radius: 20px;
+  background-color: white;
   background-size: 140px 140px;
   background-repeat: no-repeat;
   box-shadow: 0 3px 6px rgba(0,0,0,.2), 0 3px 6px rgba(0,0,0,.2);
