@@ -11000,3 +11000,6 @@ form .row:first-child .floating-label-form-group {
     display: flex;
     justify-content: center;
 }
+.contact img{
+  width: 40px;
+}
